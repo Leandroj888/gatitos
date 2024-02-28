@@ -7,6 +7,7 @@ Este é um projeto de código aberto concebido para explorar e aprimorar habilid
 - **[Figma](https://www.figma.com/team_invite/redeem/32qpSSkl4BR3kHAK8hfXYD)**: Utilizado para prototipagem e design, proporcionando uma base visual sólida para o desenvolvimento.
     - [Icons](https://www.figma.com/file/iDTWkTeTMn2TwnWrqFOCJz/Chunk-Icons-(Community)?type=design&node-id=36-2897&mode=design&t=SNBSnBzH1BfvZ1gB-0)
 - **[Trello](https://trello.com/w/gatitos88)**: A gestão de projetos é feita de forma eficiente com Trello, garantindo uma abordagem ágil e organizada.
+- **[brModelo](https://sourceforge.net/projects/brmodelo/)**
 - **React**: O front-end do projeto é desenvolvido usando React, proporcionando uma experiência de usuário dinâmica e responsiva.
 - **PHP**: O back-end é construído em PHP, aproveitando a robustez dessa linguagem para a manipulação eficaz do banco de dados.
 - **Docker**: Utilizado para containerização, facilitando a criação, distribuição e execução consistente do ambiente de desenvolvimento.
